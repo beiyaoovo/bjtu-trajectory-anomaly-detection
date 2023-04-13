@@ -1,1 +1,1 @@
-# sz
+# trajectory-anomaly-detection
