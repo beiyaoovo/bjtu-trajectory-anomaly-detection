@@ -17,7 +17,7 @@ import transbigdata as tbd
 
 def data_preprocessing(graph, trajectory, lon_min, lat_min, lon_max, lat_max):
     """
-    Data preprocessing for iABT algorithm.
+    Data preprocessing for iBAAAT algorithm.
 
     Parameters
     ----------
