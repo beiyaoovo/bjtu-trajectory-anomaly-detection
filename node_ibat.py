@@ -16,7 +16,7 @@ import random
 
 def data_preprocessing(trajectory):
     """
-    Data preprocessing for iABT algorithm.
+    Data preprocessing for iBAT algorithm.
 
     Parameters
     ----------
